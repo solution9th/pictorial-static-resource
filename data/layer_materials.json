@@ -1,0 +1,368 @@
+[
+    {
+      "title": "气泡",
+      "items": [
+        {
+          "name_en": "bubble1",
+          "name_zh": "气泡1",
+          "image": "assets/resource/images/layer_material/bubbles/bubble1.png"
+        },
+        {
+          "name_en": "bubble2",
+          "name_zh": "气泡2",
+          "image": "assets/resource/images/layer_material/bubbles/bubble2.png"
+        },
+        {
+          "name_en": "bubble3",
+          "name_zh": "气泡3",
+          "image": "assets/resource/images/layer_material/bubbles/bubble3.png"
+        },
+        {
+          "name_en": "bubble4",
+          "name_zh": "气泡4",
+          "image": "assets/resource/images/layer_material/bubbles/bubble4.png"
+        },
+        {
+          "name_en": "bubble5",
+          "name_zh": "气泡5",
+          "image": "assets/resource/images/layer_material/bubbles/bubble5.png"
+        },
+        {
+          "name_en": "bubble6",
+          "name_zh": "气泡6",
+          "image": "assets/resource/images/layer_material/bubbles/bubble6.png"
+        },
+        {
+          "name_en": "bubble7",
+          "name_zh": "气泡7",
+          "image": "assets/resource/images/layer_material/bubbles/bubble7.png"
+        },
+        {
+          "name_en": "bubble8",
+          "name_zh": "气泡8",
+          "image": "assets/resource/images/layer_material/bubbles/bubble8.png"
+        },
+        {
+          "name_en": "bubble9",
+          "name_zh": "气泡9",
+          "image": "assets/resource/images/layer_material/bubbles/bubble9.png"
+        },
+        {
+          "name_en": "bubble10",
+          "name_zh": "气泡10",
+          "image": "assets/resource/images/layer_material/bubbles/bubble10.png"
+        },
+        {
+          "name_en": "bubble11",
+          "name_zh": "气泡11",
+          "image": "assets/resource/images/layer_material/bubbles/bubble11.png"
+        }
+      ]
+    },
+    {
+        "title": "节日",
+        "items": [
+            {
+              "name_zh": "新年暴富",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/新年暴富.png"
+            },
+            {
+              "name_zh": "恭贺新禧",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/恭贺新禧.png"
+            },
+            {
+              "name_zh": "炮竹2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/炮竹2.png"
+            },
+            {
+              "name_zh": "灯笼2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯笼2.png"
+            },
+            {
+              "name_zh": "除夕",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/除夕.png"
+            },
+            {
+              "name_zh": "福结",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/福结.png"
+            },
+            {
+              "name_zh": "烟花",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/烟花.png"
+            },
+            {
+              "name_zh": "炮竹",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/炮竹.png"
+            },
+            {
+              "name_zh": "灯笼",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯笼.png"
+            },
+            {
+              "name_zh": "元宝",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/元宝.png"
+            },
+            {
+              "name_zh": "炮竹 福字",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/炮竹 福字.png"
+            },
+            {
+              "name_zh": "雪花",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/雪花.png"
+            },
+            {
+              "name_zh": "雪人2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/雪人2.png"
+            },
+            {
+              "name_zh": "雪人",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/雪人.png"
+            },
+            {
+              "name_zh": "铃铛",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/铃铛.png"
+            },
+            {
+              "name_zh": "美食2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/美食2.png"
+            },
+            {
+              "name_zh": "美食",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/美食.png"
+            },
+            {
+              "name_zh": "组 1",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/组 1.png"
+            },
+            {
+              "name_zh": "礼物盘",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/礼物盘.png"
+            },
+            {
+              "name_zh": "礼物",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/礼物.png"
+            },
+            {
+              "name_zh": "礼帽",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/礼帽.png"
+            },
+            {
+              "name_zh": "灯笼",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯笼.png"
+            },
+            {
+              "name_zh": "灯笼(2)",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯笼(2).png"
+            },
+            {
+              "name_zh": "灯球",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯球.png"
+            },
+            {
+              "name_zh": "灯",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/灯.png"
+            },
+            {
+              "name_zh": "气球",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/气球.png"
+            },
+            {
+              "name_zh": "新年礼物",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/新年礼物.png"
+            },
+            {
+              "name_zh": "彩球",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/彩球.png"
+            },
+            {
+              "name_zh": "团聚",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/团聚.png"
+            },
+            {
+              "name_zh": "企鹅",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/企鹅.png"
+            },
+            {
+              "name_zh": "麋鹿4",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/麋鹿4.png"
+            },
+            {
+              "name_zh": "麋鹿3",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/麋鹿3.png"
+            },
+            {
+              "name_zh": "麋鹿2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/麋鹿2.png"
+            },
+            {
+              "name_zh": "麋鹿1",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/麋鹿1.png"
+            },
+            {
+              "name_zh": "麋鹿",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/麋鹿.png"
+            },
+            {
+              "name_zh": "鹿4",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/鹿4.png"
+            },
+            {
+              "name_zh": "鹿2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/鹿2.png"
+            },
+            {
+              "name_zh": "鹿",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/鹿.png"
+            },
+            {
+              "name_zh": "雪松",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/雪松.png"
+            },
+            {
+              "name_zh": "雪人",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/雪人.png"
+            },
+            {
+              "name_zh": "铃铛1",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/铃铛1.png"
+            },
+            {
+              "name_zh": "铃铛",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/铃铛.png"
+            },
+            {
+              "name_zh": "袜子3",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/袜子3.png"
+            },
+            {
+              "name_zh": "袜子2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/袜子2.png"
+            },
+            {
+              "name_zh": "袜子1",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/袜子1.png"
+            },
+            {
+              "name_zh": "袜子",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/袜子.png"
+            },
+            {
+              "name_zh": "菜单",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/菜单.png"
+            },
+            {
+              "name_zh": "花圈6",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈6.png"
+            },
+            {
+              "name_zh": "花圈5",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈5.png"
+            },
+            {
+              "name_zh": "花圈4",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈4.png"
+            },
+            {
+              "name_zh": "花圈3",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈3.png"
+            },
+            {
+              "name_zh": "花圈2",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈2.png"
+            },
+            {
+              "name_zh": "花圈1",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/花圈1.png"
+            },
+            {
+              "name_zh": "老头",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/老头.png"
+            },
+            {
+              "name_zh": "礼盒",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/礼盒.png"
+            },
+            {
+              "name_zh": "树枝",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/树枝.png"
+            },
+            {
+              "name_zh": "挂件圣诞树",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/挂件圣诞树.png"
+            },
+            {
+              "name_zh": "手套",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/手套.png"
+            },
+            {
+              "name_zh": "房子",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/房子.png"
+            },
+            {
+              "name_zh": "女孩和信封",
+              "name_en": "",
+              "blurb": "assets/resource/images/layer_material/festivals/女孩和信封.png"
+            }
+          ]
+      }
+  ]
+  

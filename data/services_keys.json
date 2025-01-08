@@ -1,0 +1,164 @@
+{
+  "txt_to_box": [
+    {
+      "service_description": "文生框",
+      "key_name": "53"
+    }
+  ],
+  "txt_to_doodle": [
+    {
+      "service_description": "文生草稿",
+      "key_name": "14"
+    }
+  ],
+  "box_to_txt": [
+    {
+      "service_description": "区域生图反推提示词",
+      "key_name": "15"
+    }
+  ],
+  "box_to_doodle": [
+    {
+      "service_description": "区域生图反推草图",
+      "key_name": "16"
+    }
+  ],
+  "doodle_to_txt": [
+    {
+      "service_description": "草图推词",
+      "key_name": "17"
+    }
+  ],
+  "doodle_to_box": [
+    {
+      "service_description": "草图生框",
+      "key_name": "18"
+    }
+  ],
+  "foreground_and_background": [
+    {
+      "service_description": "提取前景&背景",
+      "key_name": "17"
+    }
+  ],
+  "detect_human": [
+    {
+      "service_description": "智能判断输入是否包含人",
+      "key_name": "53"
+    }
+  ],
+  "box_to_img": [
+    {
+      "service_description": "框生图",
+      "key_name": "K1"
+    }
+  ],
+  "img_to_txt": [
+    {
+      "service_description": "图推词",
+      "key_name": "P4"
+    }
+  ],
+  "img_to_box": [
+    {
+      "service_description": "图推框",
+      "key_name": "P5"
+    }
+  ],
+  "img_to_doodle": [
+    {
+      "service_description": "图推草图",
+      "key_name": "P5"
+    }
+  ],
+  "get_selection": [
+    {
+      "service_description": "智能选区",
+      "key_name": "S1"
+    }
+  ],
+  "pencil_sketch": [
+    {
+      "service_description": "铅笔涂鸦生图",
+      "key_name": "50"
+    }
+  ],
+  "text_to_img": [
+    {
+      "service_description": "文生图",
+      "key_name": "W1"
+    }
+  ],
+  "character_pose": [
+    {
+      "service_description": "角色+open pose摆动作",
+      "key_name": "WJ1"
+    }
+  ],
+  "pose_to_img": [
+    {
+      "service_description": "单独open pose+表情控制",
+      "key_name": "35"
+    }
+  ],
+  "smart_fusion": [
+    {
+      "service_description": "智能融合生图",
+      "key_name": "50"
+    }
+  ],
+  "face_control": [
+    {
+      "service_description": "表情调整",
+      "key_name": "35"
+    }
+  ],
+  "local_redrawing": [
+    {
+      "service_description": "局部重绘",
+      "key_name": "26"
+    }
+  ],
+  "brush_doodle_to_img": [
+    {
+      "service_description": "笔刷涂鸦生图",
+      "key_name": "36"
+    }
+  ],
+  "selection_brush_to_img": [
+    {
+      "service_description": "选区笔刷涂鸦",
+      "key_name": "49"
+    }
+  ],
+  "selection_pencil_to_img": [
+    {
+      "service_description": "选区铅笔涂鸦",
+      "key_name": "50"
+    }
+  ],
+  "selection_pose_to_img": [
+    {
+      "service_description": "选区 openpose",
+      "key_name": "50"
+    }
+  ],
+  "human_exist": [
+    {
+      "service_description": "识别提示词是否有人",
+      "key_name": "53"
+    }
+  ],
+  "remove_background": [
+    {
+      "service_description": "去背景",
+      "key_name": "17"
+    }
+  ],
+  "img_to_pose": [
+    {
+      "service_description": "图片转坐标",
+      "key_name": "53"
+    }
+  ]
+}

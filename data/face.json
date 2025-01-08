@@ -1,0 +1,182 @@
+[
+    {
+      "title": "基础表情",
+      "items": [
+        {
+            "name_en": "Reset to initial",
+            "name_zh": "恢复初始",
+            "blurb": "assets/resource/images/poses/face1.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 0,
+                    "aaa": 0,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 0,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": 0,
+                    "wink": 0
+                }
+            }
+        },
+        {
+            "name_en": "happy",
+            "name_zh": "高兴",
+            "blurb": "assets/resource/images/poses/face2.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 1.3,
+                    "aaa": 12,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 0,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": 0,
+                    "wink": 0
+                }
+            }
+        },
+        {
+            "name_en": "blink",
+            "name_zh": "眨眼",
+            "blurb": "assets/resource/images/poses/face3.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 1.3,
+                    "aaa": 12,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 0,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": 0,
+                    "wink": 24
+                }
+            }
+        },
+        {
+            "name_en": "surprised",
+            "name_zh": "惊讶",
+            "blurb": "assets/resource/images/poses/face4.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 0,
+                    "aaa": 120,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 5,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": 10,
+                    "wink": 0
+                }
+            }
+        },
+        {
+            "name_en": "sleepy",
+            "name_zh": "困顿",
+            "blurb": "assets/resource/images/poses/face5.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 0,
+                    "aaa": 0,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": -15,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": -10,
+                    "wink": 0
+                }
+            }
+        },
+        {
+            "name_en": "sad",
+            "name_zh": "难过",
+            "blurb": "assets/resource/images/poses/face6.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 0,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": -0.3,
+                    "aaa": -30,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 0,
+                    "pupil_x": 0,
+                    "pupil_y": 0,
+                    "eyebrow": -6,
+                    "wink": 0
+                }
+            }
+        },
+        {
+            "name_en": "look_aside",
+            "name_zh": "看向一边",
+            "blurb": "assets/resource/images/poses/face7.jpg",
+            "values": {
+                "head": {
+                    "rotate_pitch": 10,
+                    "rotate_yaw": 0,
+                    "rotate_roll": 0
+                },
+                "mouth": {
+                    "smile": 0,
+                    "aaa": 0,
+                    "eee": 0,
+                    "woo": 0
+                },
+                "eyes": {
+                    "blink": 0,
+                    "pupil_x": 15,
+                    "pupil_y": 0,
+                    "eyebrow": 0,
+                    "wink": 0
+                }
+            }
+        }
+      ]
+    }
+]

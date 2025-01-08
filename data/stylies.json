@@ -1,0 +1,17 @@
+[
+  {
+    "title": "基础风格",
+    "items": [
+      {
+        "name_en": "pencil sketch",
+        "name_zh": "极简线条",
+        "blurb": "assets/resource/images/style/pencil_sketch.jpg"
+      },
+      {
+        "name_en": "CIS",
+        "name_zh": "儿童插画风",
+        "blurb": "assets/resource/images/style/CIS.jpg"
+      }
+    ]
+  }
+]
