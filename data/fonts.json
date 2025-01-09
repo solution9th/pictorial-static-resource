@@ -1,76 +1,75 @@
 [
-    {
-        "title": "Class1",
-        "items": [
-            {
-                "name": "标小智龙珠体.ttf",
-                "url": "assets/resource/fonts/标小智龙珠体.ttf"
-            },
-            {
-                "name": "寒蝉书体.otf",
-                "url": "assets/resource/fonts/寒蝉书体.otf"
-            },
-            {
-                "name": "汉字拼音体-带拼音.ttf",
-                "url": "assets/resource/fonts/汉字拼音体-带拼音.ttf"
-            },
-            {
-                "name": "快去写作业.ttf",
-                "url": "assets/resource/fonts/快去写作业.ttf"
-            },
-            {
-                "name": "猫啃珠圆体.ttf",
-                "url": "assets/resource/fonts/猫啃珠圆体.ttf"
-            },
-            {
-                "name": "萌神手写体-带拼音.ttf",
-                "url": "assets/resource/fonts/萌神手写体-带拼音.ttf"
-            },
-            {
-                "name": "思源黑体-Bold.otf",
-                "url": "assets/resource/fonts/思源黑体-Bold.otf"
-            },
-            {
-                "name": "思源黑体-Heavy.otf",
-                "url": "assets/resource/fonts/思源黑体-Heavy.otf"
-            },
-            {
-                "name": "思源黑体-Regular.otf",
-                "url": "assets/resource/fonts/思源黑体-Regular.otf"
-            },
-            {
-                "name": "思源黑体.otf",
-                "url": "assets/resource/fonts/思源黑体.otf"
-            },
-            {
-                "name": "思源宋体.otf",
-                "url": "assets/resource/fonts/思源宋体.otf"
-            },
-            {
-                "name": "杨任东竹石体.ttf",
-                "url": "assets/resource/fonts/杨任东竹石体.ttf"
-            },
-            {
-                "name": "站酷快乐体.ttf",
-                "url": "assets/resource/fonts/站酷快乐体.ttf"
-            },
-            {
-                "name": "站酷庆科体.ttf",
-                "url": "assets/resource/fonts/站酷庆科体.ttf"
-            },
-            {
-                "name": "钟齐志莽行书.ttf",
-                "url": "assets/resource/fonts/钟齐志莽行书.ttf"
-            },
-            {
-                "name": "DancingScript.ttf",
-                "url": "assets/resource/fonts/DancingScript.ttf"
-            },
-            {
-                "name": "Lora.ttf",
-                "url": "assets/resource/fonts/Lora.ttf"
-            }
-
-        ]
-    }
+  {
+    "title": "Class1",
+    "items": [
+      {
+        "name": "标小智龙珠体.ttf",
+        "url": "assets/resource/fonts/000001.ttf"
+      },
+      {
+        "name": "寒蝉书体.otf",
+        "url": "assets/resource/fonts/000008.otf"
+      },
+      {
+        "name": "汉字拼音体-带拼音.ttf",
+        "url": "assets/resource/fonts/000005.ttf"
+      },
+      {
+        "name": "快去写作业.ttf",
+        "url": "assets/resource/fonts/000002.ttf"
+      },
+      {
+        "name": "猫啃珠圆体.ttf",
+        "url": "assets/resource/fonts/000014.ttf"
+      },
+      {
+        "name": "萌神手写体-带拼音.ttf",
+        "url": "assets/resource/fonts/000006.ttf"
+      },
+      {
+        "name": "思源黑体-Bold.otf",
+        "url": "assets/resource/fonts/000015.otf"
+      },
+      {
+        "name": "思源黑体-Heavy.otf",
+        "url": "assets/resource/fonts/000009.otf"
+      },
+      {
+        "name": "思源黑体-Regular.otf",
+        "url": "assets/resource/fonts/000011.otf"
+      },
+      {
+        "name": "思源黑体.otf",
+        "url": "assets/resource/fonts/000003.otf"
+      },
+      {
+        "name": "思源宋体.otf",
+        "url": "assets/resource/fonts/000016.otf"
+      },
+      {
+        "name": "杨任东竹石体.ttf",
+        "url": "assets/resource/fonts/000012.ttf"
+      },
+      {
+        "name": "站酷快乐体.ttf",
+        "url": "assets/resource/fonts/000007.ttf"
+      },
+      {
+        "name": "站酷庆科体.ttf",
+        "url": "assets/resource/fonts/000017.ttf"
+      },
+      {
+        "name": "钟齐志莽行书.ttf",
+        "url": "assets/resource/fonts/000010.ttf"
+      },
+      {
+        "name": "DancingScript.ttf",
+        "url": "assets/resource/fonts/DancingScript.ttf"
+      },
+      {
+        "name": "Lora.ttf",
+        "url": "assets/resource/fonts/Lora.ttf"
+      }
+    ]
+  }
 ]
